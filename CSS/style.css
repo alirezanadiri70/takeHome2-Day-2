@@ -39,3 +39,6 @@ body{
     border:thin solid black;
 
 }
+p{
+    font-weight: bold;
+}
