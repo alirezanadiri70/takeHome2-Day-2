@@ -2,10 +2,9 @@
     background-color:yellow;
     padding:20px;
 } */
-body{
-    background-color:yellow;
-    padding:15px 10px;
-    
+.container-fluid{
+    background-color: yellow;
+    height: 100vh;
 }
 #div-1{
     background-color:blue;
